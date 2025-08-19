@@ -1,15 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 738
-(no subject)
-Inbox
-
-Imran Khan <imthima2@gmail.com>
-11:48 AM (0 minutes ago)
-to me
-
 # ATM Simulator
 
 ## Project Description
